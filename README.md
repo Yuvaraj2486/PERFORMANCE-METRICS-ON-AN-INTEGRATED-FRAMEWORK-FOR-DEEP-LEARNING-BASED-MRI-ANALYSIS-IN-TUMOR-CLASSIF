@@ -61,8 +61,5 @@ Each subfolder should contain images (e.g., `image1.jpeg`, `second1.jpeg`, etc.)
 - Add export functionality for results and segmented images 📤.
 - Optimize for large datasets and real-time processing ⏩.
 
-## License 📜
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact 📬
 For questions or contributions, open an issue or submit a pull request on the GitHub repository 🙌.
